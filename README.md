@@ -33,6 +33,8 @@ This system bridges the gap between user qualifications and market opportunities
 
 * Technologies: Python, Streamlit, Google Flash Model, NLP.
 
+* Demo video - [Click Me](https://drive.google.com/file/d/1xMhcEkHe7l1TM3ky4l3uW1S7YusxbNnN/view?usp=drive_link)
+
 ## 2. PDF Analyzer 📄🔍
 
 AI-Powered Document Intelligence Tool
